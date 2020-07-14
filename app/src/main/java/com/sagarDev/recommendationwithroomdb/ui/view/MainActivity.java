@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
 
                 }
         }).attachToRecyclerView(binding.recyclerview);
+
     }
 
     @Override

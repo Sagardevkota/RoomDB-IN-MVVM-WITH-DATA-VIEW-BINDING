@@ -6,7 +6,7 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.sagarDev.recommendationwithroomdb.db.UserRepository.UserRepository;
+import com.sagarDev.recommendationwithroomdb.db.repository.UserRepository;
 import com.sagarDev.recommendationwithroomdb.db.entity.User;
 
 import java.util.List;

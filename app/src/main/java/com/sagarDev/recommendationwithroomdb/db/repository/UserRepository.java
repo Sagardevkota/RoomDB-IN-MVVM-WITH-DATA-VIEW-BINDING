@@ -1,4 +1,4 @@
-package com.sagarDev.recommendationwithroomdb.db.UserRepository;
+package com.sagarDev.recommendationwithroomdb.db.repository;
 
 import android.app.Application;
 
