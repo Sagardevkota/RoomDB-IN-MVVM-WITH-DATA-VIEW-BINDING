@@ -1,2 +1,7 @@
 # RoomDB-IN-MVVM-WITH-DATA-VIEW-BINDING
-implementation of room db with CRUD of user's first and last name in MVVM architecture with view binding.Recyclerview to show list of users with on swipe delete user and adding user on fab click...
+* CRUD operation for user's first and last name
+*Recyclerview to show users from db
+*Remove user from db on swiping recyclerview items
+*Add user's info from fab click on new activity
+
+
